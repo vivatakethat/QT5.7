@@ -1,0 +1,3 @@
+![demo_snake](http://ofkarhqoq.bkt.clouddn.com/snake_qt.jpg "demo_sake")
+
+有待改进....

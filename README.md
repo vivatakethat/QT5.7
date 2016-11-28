@@ -3,5 +3,6 @@
 
 + Qt Creator 4.0.2
 + Based on Qt 5.7.0 (MSVC 2013, 32 bit)
-
+# Snake贪吃蛇
+ 基于Qt5.7，有待完善.
 
